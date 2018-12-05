@@ -1,0 +1,11 @@
+/* =============
+ == Menu Help ==
+============= */
+.help-box {
+    color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    font-size: 12px;
+}
